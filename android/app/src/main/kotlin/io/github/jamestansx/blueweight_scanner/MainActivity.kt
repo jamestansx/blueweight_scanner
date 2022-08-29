@@ -1,0 +1,6 @@
+package io.github.jamestansx.blueweight_scanner
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
